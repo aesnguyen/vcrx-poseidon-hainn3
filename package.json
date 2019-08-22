@@ -1,0 +1,22 @@
+{
+  "name": "vcrx-poseidon-hainn3",
+  "version": "1.0.0",
+  "description": "vcrx sdk library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aesnguyen/react-native-vcrx-poseidon.git"
+  },
+  "keywords": [
+    "sdk"
+  ],
+  "author": "aesnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aesnguyen/react-native-vcrx-poseidon/issues"
+  },
+  "homepage": "https://github.com/aesnguyen/react-native-vcrx-poseidon#readme"
+}
